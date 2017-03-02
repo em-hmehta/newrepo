@@ -1,3 +1,3 @@
 This file is added by user1.
 And so this data is by user1 too.
-This is added by dev1
+This is added by dev1 - merge it
